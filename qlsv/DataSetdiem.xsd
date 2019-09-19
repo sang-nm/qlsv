@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetdiem" targetNamespace="http://tempuri.org/DataSetdiem.xsd" xmlns:mstns="http://tempuri.org/DataSetdiem.xsd" xmlns="http://tempuri.org/DataSetdiem.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetdiem" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetdiem" msprop:Generator_UserDSName="DataSetdiem">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="nhapdiem" msprop:Generator_TableClassName="nhapdiemDataTable" msprop:Generator_TableVarName="tablenhapdiem" msprop:Generator_RowChangedName="nhapdiemRowChanged" msprop:Generator_TablePropName="nhapdiem" msprop:Generator_RowDeletingName="nhapdiemRowDeleting" msprop:Generator_RowChangingName="nhapdiemRowChanging" msprop:Generator_RowEvHandlerName="nhapdiemRowChangeEventHandler" msprop:Generator_RowDeletedName="nhapdiemRowDeleted" msprop:Generator_RowClassName="nhapdiemRow" msprop:Generator_UserTableName="nhapdiem" msprop:Generator_RowEvArgName="nhapdiemRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Ten_x0020_SV" msprop:Generator_ColumnVarNameInTable="columnTen_SV" msprop:Generator_ColumnPropNameInRow="Ten_SV" msprop:Generator_ColumnPropNameInTable="Ten_SVColumn" msprop:Generator_UserColumnName="Ten SV" type="xs:string" minOccurs="0" />
+              <xs:element name="Ma_x0020_SV" msprop:Generator_ColumnVarNameInTable="columnMa_SV" msprop:Generator_ColumnPropNameInRow="Ma_SV" msprop:Generator_ColumnPropNameInTable="Ma_SVColumn" msprop:Generator_UserColumnName="Ma SV" type="xs:string" minOccurs="0" />
+              <xs:element name="Ma_x0020_Lop" msprop:Generator_ColumnVarNameInTable="columnMa_Lop" msprop:Generator_ColumnPropNameInRow="Ma_Lop" msprop:Generator_ColumnPropNameInTable="Ma_LopColumn" msprop:Generator_UserColumnName="Ma Lop" type="xs:string" minOccurs="0" />
+              <xs:element name="Điểm_x0020_Kỳ_x0020_I" msprop:Generator_ColumnVarNameInTable="columnĐiểm_Kỳ_I" msprop:Generator_ColumnPropNameInRow="Điểm_Kỳ_I" msprop:Generator_ColumnPropNameInTable="Điểm_Kỳ_IColumn" msprop:Generator_UserColumnName="Điểm Kỳ I" type="xs:string" minOccurs="0" />
+              <xs:element name="Điểm_x0020_Kỳ_x0020_II" msprop:Generator_ColumnVarNameInTable="columnĐiểm_Kỳ_II" msprop:Generator_ColumnPropNameInRow="Điểm_Kỳ_II" msprop:Generator_ColumnPropNameInTable="Điểm_Kỳ_IIColumn" msprop:Generator_UserColumnName="Điểm Kỳ II" type="xs:string" minOccurs="0" />
+              <xs:element name="Điểm_x0020_Cuối_x0020_Kỳ" msprop:Generator_ColumnVarNameInTable="columnĐiểm_Cuối_Kỳ" msprop:Generator_ColumnPropNameInRow="Điểm_Cuối_Kỳ" msprop:Generator_ColumnPropNameInTable="Điểm_Cuối_KỳColumn" msprop:Generator_UserColumnName="Điểm Cuối Kỳ" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="nhaplop" msprop:Generator_TableClassName="nhaplopDataTable" msprop:Generator_TableVarName="tablenhaplop" msprop:Generator_RowChangedName="nhaplopRowChanged" msprop:Generator_TablePropName="nhaplop" msprop:Generator_RowDeletingName="nhaplopRowDeleting" msprop:Generator_RowChangingName="nhaplopRowChanging" msprop:Generator_RowEvHandlerName="nhaplopRowChangeEventHandler" msprop:Generator_RowDeletedName="nhaplopRowDeleted" msprop:Generator_RowClassName="nhaplopRow" msprop:Generator_UserTableName="nhaplop" msprop:Generator_RowEvArgName="nhaplopRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Ma_x0020_lop" msprop:Generator_ColumnVarNameInTable="columnMa_lop" msprop:Generator_ColumnPropNameInRow="Ma_lop" msprop:Generator_ColumnPropNameInTable="Ma_lopColumn" msprop:Generator_UserColumnName="Ma lop" type="xs:string" minOccurs="0" />
+              <xs:element name="Ten_x0020_lop" msprop:Generator_ColumnVarNameInTable="columnTen_lop" msprop:Generator_ColumnPropNameInRow="Ten_lop" msprop:Generator_ColumnPropNameInTable="Ten_lopColumn" msprop:Generator_UserColumnName="Ten lop" type="xs:string" minOccurs="0" />
+              <xs:element name="Ngay_x0020_bat_x0020_dau" msprop:Generator_ColumnVarNameInTable="columnNgay_bat_dau" msprop:Generator_ColumnPropNameInRow="Ngay_bat_dau" msprop:Generator_ColumnPropNameInTable="Ngay_bat_dauColumn" msprop:Generator_UserColumnName="Ngay bat dau" type="xs:string" minOccurs="0" />
+              <xs:element name="Ngay_x0020_ket_x0020_thuc" msprop:Generator_ColumnVarNameInTable="columnNgay_ket_thuc" msprop:Generator_ColumnPropNameInRow="Ngay_ket_thuc" msprop:Generator_ColumnPropNameInTable="Ngay_ket_thucColumn" msprop:Generator_UserColumnName="Ngay ket thuc" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

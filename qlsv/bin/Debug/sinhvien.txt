@@ -1,0 +1,23 @@
+SV001;mai thuy linh;2000-01-10;ha noi;Nu;456123;Niit;Soft;phongmay,thuvien,maychieu
+SV002;Naruto;1999-01-06;nhat ban;Nam;888888888;Do hoa;Do hoa;thuvien,maychieu
+SV003;sasuke;1995-02-08;hcm;Nam;7777777;Do hoa;Do hoa;phongmay
+SV004;sakura;1995-02-12;nhat ban;Nu;4444444444;web;web;maychieu
+SV005;ton ngo khong;2000-02-12;hcm;Nam;123456633;Niit;Soft;thuvien
+SV006;Dua leo;1995-02-12;hcm;Nu;9999945566;Niit;Net;phongmay,maychieu
+SV007;ca chua;1995-01-12;ha noi;Nu;111111111;Do hoa;Do hoa;thuvien
+SV008;be ngoan;1987-09-09;hcm;Nu;44444444444;Niit;Net;thuvien,maychieu
+SV009;Harry Poter;1994-04-04;usa;Nam;44444444555;Do hoa;Do hoa;phongmay,thuvien
+SV010;taburo;1994-04-08;hcm;Nam;4444442222;Niit;Soft;maychieu
+SV011;be mup;1999-04-08;hcm;Nam;4851256;web;web;phongmay,thuvien,maychieu
+SV012;nguyen thi ngoc anh;1995-04-08;ha noi;Nu;45123;Niit;Soft;phongmay,thuvien
+SV013;le huong hong;1845-04-06;hcm;Nu;123456;web;web;thuvien
+SV014;tuyet nhi ;1994-07-07;ha noi;Nu;7845123;Do hoa;Do hoa;thuvien
+SV015;phan ngoc quynh;1995-07-07;hcm;Nu;789456;web;web;thuvien,maychieu
+SV016;orange apple;1996-06-10;canada;Nu;7845126;Do hoa;Do hoa;thuvien,maychieu
+SV017;november;1994-01-22;japanese;Nam;45612378;Do hoa;Do hoa;thuvien
+SV018;son tung mtp;1993-09-09;ha noi;Nam;7845612;web;web;phongmay
+SV019;ho quang hieu;1999-09-19;hcm;Nu;888888888;Niit;Soft;maychieu
+SV020;bad girl;1992-08-07;dong nai;Nam;123456;Niit;Net;maychieu
+SV021;cute cat;2000-01-10;hcm;Nam;789456;Niit;Net;thuvien
+SV022;kenny ;1995-02-10;hcm;Nam;78456;Do hoa;Do hoa;thuvien,maychieu
+SV023;linh;1995-01-10;gg;Nu;78955;Niit;Net;phongmay,thuvien

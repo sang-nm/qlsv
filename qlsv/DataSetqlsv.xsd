@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="student" msprop:Generator_TableClassName="studentDataTable" msprop:Generator_TableVarName="tablestudent" msprop:Generator_TablePropName="student" msprop:Generator_RowDeletingName="studentRowDeleting" msprop:Generator_RowChangingName="studentRowChanging" msprop:Generator_RowEvHandlerName="studentRowChangeEventHandler" msprop:Generator_RowDeletedName="studentRowDeleted" msprop:Generator_UserTableName="student" msprop:Generator_RowChangedName="studentRowChanged" msprop:Generator_RowEvArgName="studentRowChangeEvent" msprop:Generator_RowClassName="studentRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Mã_x0020_SV" msprop:Generator_ColumnVarNameInTable="columnMã_SV" msprop:Generator_ColumnPropNameInRow="Mã_SV" msprop:Generator_ColumnPropNameInTable="Mã_SVColumn" msprop:Generator_UserColumnName="Mã SV" type="xs:string" minOccurs="0" />
+              <xs:element name="Tên" msprop:Generator_ColumnVarNameInTable="columnTên" msprop:Generator_ColumnPropNameInRow="Tên" msprop:Generator_ColumnPropNameInTable="TênColumn" msprop:Generator_UserColumnName="Tên" type="xs:string" minOccurs="0" />
+              <xs:element name="Ngày_x0020_sinh" msprop:Generator_ColumnVarNameInTable="columnNgày_sinh" msprop:Generator_ColumnPropNameInRow="Ngày_sinh" msprop:Generator_ColumnPropNameInTable="Ngày_sinhColumn" msprop:Generator_UserColumnName="Ngày sinh" type="xs:string" minOccurs="0" />
+              <xs:element name="Địa_x0020_chỉ" msprop:Generator_ColumnVarNameInTable="columnĐịa_chỉ" msprop:Generator_ColumnPropNameInRow="Địa_chỉ" msprop:Generator_ColumnPropNameInTable="Địa_chỉColumn" msprop:Generator_UserColumnName="Địa chỉ" type="xs:string" minOccurs="0" />
+              <xs:element name="Giới_x0020_tính" msprop:Generator_ColumnVarNameInTable="columnGiới_tính" msprop:Generator_ColumnPropNameInRow="Giới_tính" msprop:Generator_ColumnPropNameInTable="Giới_tínhColumn" msprop:Generator_UserColumnName="Giới tính" type="xs:string" minOccurs="0" />
+              <xs:element name="Số_x0020_Phone" msprop:Generator_ColumnVarNameInTable="columnSố_Phone" msprop:Generator_ColumnPropNameInRow="Số_Phone" msprop:Generator_ColumnPropNameInTable="Số_PhoneColumn" msprop:Generator_UserColumnName="Số Phone" type="xs:string" minOccurs="0" />
+              <xs:element name="Khóa_x0020_học" msprop:Generator_ColumnVarNameInTable="columnKhóa_học" msprop:Generator_ColumnPropNameInRow="Khóa_học" msprop:Generator_ColumnPropNameInTable="Khóa_họcColumn" msprop:Generator_UserColumnName="Khóa học" type="xs:string" minOccurs="0" />
+              <xs:element name="Chuyên_x0020_ngành" msprop:Generator_ColumnVarNameInTable="columnChuyên_ngành" msprop:Generator_ColumnPropNameInRow="Chuyên_ngành" msprop:Generator_ColumnPropNameInTable="Chuyên_ngànhColumn" msprop:Generator_UserColumnName="Chuyên ngành" type="xs:string" minOccurs="0" />
+              <xs:element name="PTSD" msprop:Generator_ColumnVarNameInTable="columnPTSD" msprop:Generator_ColumnPropNameInRow="PTSD" msprop:Generator_ColumnPropNameInTable="PTSDColumn" msprop:Generator_UserColumnName="PTSD" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

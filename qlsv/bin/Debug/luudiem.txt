@@ -1,0 +1,15 @@
+taburo|SV010|niit001|100|200|300
+son tung mtp|SV018|niit005|123|456|789
+november|SV017|niit005|90|90|1000
+ho quang hieu|SV019|niit005|10|10|10
+Naruto|SV002|b160012|7|8|9
+Harry Poter|SV009|niit001|100|100|100
+Dua leo|SV006|niit002|3|80|100
+ton ngo khong|SV005|niit002|9999|9999|900
+nguyen thi ngoc anh|SV012|niit003|100|100|100
+ca chua|SV007|niit003|800|60|30
+sakura|SV004|niit002|4|5|6
+be ngoan|SV008|niit002|70|80|92
+phan ngoc quynh|SV015|niit005|30|100|10
+mai thuy linh|SV001|niit002|100|20|60
+mai thuy linh|SV001|niit006|10|10|10

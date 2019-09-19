@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataPQND" targetNamespace="http://tempuri.org/DataPQND.xsd" xmlns:mstns="http://tempuri.org/DataPQND.xsd" xmlns="http://tempuri.org/DataPQND.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataPQND" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataPQND" msprop:Generator_UserDSName="DataPQND">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="phanquyen" msprop:Generator_TableClassName="phanquyenDataTable" msprop:Generator_TableVarName="tablephanquyen" msprop:Generator_TablePropName="phanquyen" msprop:Generator_RowDeletingName="phanquyenRowDeleting" msprop:Generator_RowChangingName="phanquyenRowChanging" msprop:Generator_RowEvHandlerName="phanquyenRowChangeEventHandler" msprop:Generator_RowDeletedName="phanquyenRowDeleted" msprop:Generator_UserTableName="phanquyen" msprop:Generator_RowChangedName="phanquyenRowChanged" msprop:Generator_RowEvArgName="phanquyenRowChangeEvent" msprop:Generator_RowClassName="phanquyenRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Tên_x0020_người_x0020_dùng" msprop:Generator_ColumnVarNameInTable="columnTên_người_dùng" msprop:Generator_ColumnPropNameInRow="Tên_người_dùng" msprop:Generator_ColumnPropNameInTable="Tên_người_dùngColumn" msprop:Generator_UserColumnName="Tên người dùng" type="xs:string" minOccurs="0" />
+              <xs:element name="Mật_x0020_khẩu" msprop:Generator_ColumnVarNameInTable="columnMật_khẩu" msprop:Generator_ColumnPropNameInRow="Mật_khẩu" msprop:Generator_ColumnPropNameInTable="Mật_khẩuColumn" msprop:Generator_UserColumnName="Mật khẩu" type="xs:string" minOccurs="0" />
+              <xs:element name="Quyền_x0020_SD" msprop:Generator_ColumnVarNameInTable="columnQuyền_SD" msprop:Generator_ColumnPropNameInRow="Quyền_SD" msprop:Generator_ColumnPropNameInTable="Quyền_SDColumn" msprop:Generator_UserColumnName="Quyền SD" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
